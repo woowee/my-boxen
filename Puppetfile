@@ -59,3 +59,28 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+## my settings
+
+github "osx",                "2.2.2"
+
+github "iterm2",             "1.0.4"
+github "zsh",                "1.0.0"
+github "tmux",               "1.0.2"
+
+github "python",             "1.3.0"
+# github "go",                 "2.0.1" #1.0.0 above ?
+github "processing",         "1.1.0"
+
+github "picasa",             "1.0.0"
+github "gimp"
+github "inkscape",           "1.0.3"
+github "vlc",                "1.1.0"
+github "handbrake",          "1.0.1" #need libdvdcss(homebrew)
+
+github "evernote",           "2.0.4"
+github "dropbox",            "1.2.0"
+
+github "appcleaner",         "1.0.0"
+github "better_touch_tools", "1.0.0"
+github "shiftit",            "0.0.2"
